@@ -21,7 +21,7 @@ rest-api-automation
  └── README.md
 ▶️ Como Executar o Projeto
 1. Clonar o projeto
-git clone https://github.com/seu-usuario/rest-api-automation.git
+git clone https://github.com/Edson-Lira-Povoa/AgibankApi
 2. Acessar a pasta
 cd rest-api-automation
 3. Executar os testes
