@@ -40,9 +40,6 @@ mvn allure:serve
 ✅ Validar criação de usuário
 🌐 API Utilizada
 
-JSONPlaceholder
-
-https://jsonplaceholder.typicode.com
 
 Endpoints utilizados:
 
